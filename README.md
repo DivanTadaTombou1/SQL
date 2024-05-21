@@ -1,6 +1,6 @@
 # SQL
 
- 
+
 ### Question Set 1
 
 **Q1: Who is the senior most employee based on job title?**
